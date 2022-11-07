@@ -1,0 +1,20 @@
+.main{
+    width: 30%;
+    background-color: bisque;
+    border-radius:10px;
+    margin: 1% ;
+    
+}
+.first{
+    font-size: 20px;
+    margin-bottom: 3em;
+}
+button{
+    display:flex;
+    width: 50%;
+    justify-content: center;
+    padding: 20px;
+    border: 1px;
+    border-radius: 55px;
+    background-color: white;
+}
